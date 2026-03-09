@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Counter App
 
 A simple counter application built with React and useState hook.
@@ -16,7 +15,6 @@ A simple counter application built with React and useState hook.
 - CSS
 
 ## How to Run
-
 ```bash
 npm install
 npm run dev
@@ -25,7 +23,6 @@ npm run dev
 Then open `http://localhost:5173` in your browser.
 
 ## Project Structure
-
 ```
 src/
 ├── App.jsx       # Main component with counter logic
@@ -36,11 +33,8 @@ src/
 
 - How to use `useState` to store and update data
 - How to handle button click events with `onClick`
-- How to use arrow functions inside event handlersin
+- How to use arrow functions inside event handlers
 
 ## Screenshots
 
 ![Counter App](./src/assets/screenshot.png)
-=======
-# React-JS
->>>>>>> refs/rewritten/fix-merge
