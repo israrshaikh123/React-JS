@@ -3,7 +3,6 @@ function StudentCard({ student, onDelete, onToggle, onMark }) {
     <>
       <div className="bg-white border rounded-lg p-4 mb-3 shadow-sm">
 
-        {/* Top Row — Name + Status */}
         <div className="flex justify-between items-center mb-3">
           <h2 className="text-lg font-semibold text-gray-800">
             {student.name}
@@ -17,7 +16,6 @@ function StudentCard({ student, onDelete, onToggle, onMark }) {
           </span>
         </div>
 
-        {/* Buttons */}
         <div className="flex gap-2 flex-wrap">
           <button
             onClick={() => onToggle(student.id)}
@@ -41,7 +39,6 @@ function StudentCard({ student, onDelete, onToggle, onMark }) {
           </button>
         </div>
 
-        {/* Details */}
         {student.showDetails && (
           <div className="mt-3 bg-gray-50 rounded-lg p-3 text-sm text-gray-600">
             <p>ID: {student.id}</p>
