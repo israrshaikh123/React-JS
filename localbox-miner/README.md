@@ -33,10 +33,8 @@ LocalBox Miner allows users to add, edit, and delete records while persisting da
 
 ## 📸 Screenshots
 
-(src/assets/ss1.png)
-
-
-(src/assets/ss2.png)
+![Screenshot-1](src/assets/ss1.png)
+![Screenshot-2](src/assets/ss2.png)
 
 ## ⚙️ How to Run
 ```bash
