@@ -26,8 +26,8 @@ Employee Management System allows users to add, edit, and delete employee record
 
 ## 📸 Screenshots
 
-(src/assets/ss1.png)
-(src/assets/ss2.png)
+![Add Employee](src/assets/ss1.png)
+![Employee List](src/assets/ss2.png)
 
 ## ⚙️ How to Run
 ```bash
