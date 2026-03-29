@@ -17,6 +17,7 @@ function Navbar() {
         <li><Link to="/pricing" className="text-gray-600 hover:text-purple-600 font-medium">Pricing</Link></li>
         <li><Link to="/team" className="text-gray-600 hover:text-purple-600 font-medium">Team</Link></li>
         <li><Link to="/blog" className="text-gray-600 hover:text-purple-600 font-medium">Blog</Link></li>
+        <li><Link to="/contact" className="text-gray-600 hover:text-purple-600 font-medium">Contact</Link></li>
       </ul>
 
       <button className="bg-purple-600 text-white px-5 py-2 rounded-full hover:bg-purple-700">
