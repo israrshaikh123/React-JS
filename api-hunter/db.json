@@ -1,0 +1,61 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Israr Shaikh",
+      "email": "shaikhisrar241@gmail.com",
+      "city": "surat"
+    },
+    {
+      "id": "2",
+      "name": "Rehan",
+      "email": "rehan@example.com",
+      "city": "ahemadabad"
+    },
+    {
+      "id": "3",
+      "name": "aavesh",
+      "email": "aavesh@example.com",
+      "city": "surat"
+    },
+    {
+      "name": "Saad patel",
+      "email": "saad@gmail.com",
+      "city": "bharuch",
+      "id": "nEVe5bYZ9dI"
+    },
+    {
+      "name": "Saad patel",
+      "email": "saad@gmail.com",
+      "city": "bharuch",
+      "id": "inr5UmDP17c"
+    }
+  ],
+  "posts": [
+    {
+      "id": "1",
+      "title": "First Post",
+      "body": " my first post content.",
+      "userId": 1
+    },
+    {
+      "id": "2",
+      "title": "Second Post",
+      "body": "my second post content.",
+      "userId": 2
+    },
+    {
+      "id": "3",
+      "title": "Third Post",
+      "body": "my third post content.",
+      "userId": 3
+    },
+    {
+      "id": "q3GXZcQ2FmQ",
+      "title": "Fourth Post",
+      "body": "my fourth post content.",
+      "userId": 4
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
