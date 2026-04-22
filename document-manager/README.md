@@ -42,6 +42,17 @@ Digital Document Manager allows users to upload, organize, preview, and delete d
 - Filter by category
 - Real-time sync with Firebase
 
+## 🔐 Authentication Features
+
+- Email/Password Registration
+- Email/Password Login
+- Google Social Login
+- Forgot Password (Email Reset)
+- Protected Routes
+- Profile Management
+- Password Change
+- Real-time Auth State
+
 ## 📸 Screenshots
 
 ![Dashboard](src/assets/ss1.png)
@@ -51,6 +62,12 @@ Digital Document Manager allows users to upload, organize, preview, and delete d
 ![Files](src/assets/ss3.png)
 
 ![Files](src/assets/ss4.png)
+
+![Files](src/assets/ss5.png)
+
+![Files](src/assets/ss6.png)
+
+![Files](src/assets/ss7.png)
 
 ## ⚙️ How To Run
 

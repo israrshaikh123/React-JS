@@ -1,5 +1,6 @@
 import { initializeApp } from "firebase/app";
-import { getDatabase } from "firebase/database";  // ✅ add karo
+import { getDatabase } from "firebase/database";
+import { getAuth, GoogleAuthProvider } from "firebase/auth";  
 
 const firebaseConfig = {
   apiKey: "AIzaSyAe9s46ndq5Qb02UlMSNE1kW82dUPcmpXo",
@@ -12,4 +13,6 @@ const firebaseConfig = {
 };
 
 const app = initializeApp(firebaseConfig);
-export const db = getDatabase(app);  // ✅ add karo
+export const db = getDatabase(app);
+export const auth = getAuth(app);                         
+export const googleProvider = new GoogleAuthProvider();    
