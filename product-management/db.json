@@ -1,0 +1,39 @@
+{
+  "products": [
+    {
+      "title": "T-Shirt",
+      "price": 150,
+      "category": "Clothing",
+      "image": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=400",
+      "id": "2"
+    },
+    {
+      "title": "Headphones",
+      "price": 250,
+      "category": "Electronics",
+      "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=400",
+      "id": "3"
+    },
+    {
+      "title": "Running Shoes",
+      "price": 300,
+      "category": "Sports",
+      "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=400",
+      "id": "4"
+    },
+    {
+      "title": "laptop",
+      "price": 800,
+      "category": "Electronics",
+      "image": "https://dellstatic.luroconnect.com/media/catalog/product/cache/dd2a0577161cfa9edc1f09acc4e3c944/b/t/bts-dell-dc16250-laptop.png",
+      "id": "3KF844Mj1cE"
+    },
+    {
+      "title": "i phone 17",
+      "price": 850,
+      "category": "Electronics",
+      "image": "https://vsprod.vijaysales.com/media/catalog/product/i/p/iphone_17_white_pdp_image_position_1__en-in_1.jpg?optimize=medium&fit=bounds&height=500&width=500",
+      "id": "0dt4VMqFNnw"
+    }
+  ]
+}
